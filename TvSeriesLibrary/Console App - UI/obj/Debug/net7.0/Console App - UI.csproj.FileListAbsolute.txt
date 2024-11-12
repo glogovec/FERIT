@@ -1,0 +1,18 @@
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\Console App - UI.exe
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\Console App - UI.deps.json
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\Console App - UI.runtimeconfig.json
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\Console App - UI.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\Console App - UI.pdb
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\TvSeriesLibrary.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\bin\Debug\net7.0\TvSeriesLibrary.pdb
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.csproj.AssemblyReference.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.AssemblyInfoInputs.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.AssemblyInfo.cs
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.csproj.CoreCompileInputs.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console .94FC3550.Up2Date
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\refint\Console App - UI.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.pdb
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\Console App - UI.genruntimeconfig.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\Console App - UI\obj\Debug\net7.0\ref\Console App - UI.dll

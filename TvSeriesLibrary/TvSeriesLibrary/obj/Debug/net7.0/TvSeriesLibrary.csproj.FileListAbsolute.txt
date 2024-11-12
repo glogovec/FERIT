@@ -1,0 +1,11 @@
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\bin\Debug\net7.0\TvSeriesLibrary.deps.json
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\bin\Debug\net7.0\TvSeriesLibrary.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\bin\Debug\net7.0\TvSeriesLibrary.pdb
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.AssemblyInfoInputs.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.AssemblyInfo.cs
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\refint\TvSeriesLibrary.dll
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\TvSeriesLibrary.pdb
+C:\Users\lukah\source\repos\TvSeriesLibrary\TvSeriesLibrary\obj\Debug\net7.0\ref\TvSeriesLibrary.dll
