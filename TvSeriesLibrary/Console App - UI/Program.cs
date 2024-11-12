@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using TvSeriesLibrary;
 
 namespace TvSeriesUi
@@ -7,6 +7,7 @@ namespace TvSeriesUi
     {
         static void Main(string[] args)
         {
+            Random randomGenerator = new Random();
             Episode ep1 = new Episode();
             Episode ep2 = new Episode(10, 64.39, 8.7);
 
@@ -14,7 +15,7 @@ namespace TvSeriesUi
 
             for (int i = 0; i < viewers; i++)
             {
-                ep1.AddView(GenerateRandomScore());
+                ep1.AddView(GenerateRandomScore(randomGenerator));
                 Console.WriteLine(ep1.GetMaxScore());
             }
 
@@ -28,10 +29,9 @@ namespace TvSeriesUi
                 Console.WriteLine($"Viewers: {ep2.GetViewerCount()}");
             }
         }
-        public static double GenerateRandomScore()
-        {
-            Random random = new Random();   
-            return random.NextDouble() * 10; // NextDouble() generates doubles from 0.0 do 1.0 so we have to multiply it by 10 
+        public static double GenerateRandomScore(Random randomGenerator){ // uses one seed that is set in main
+          
+            return randomGenerator.NextDouble() * 10; // NextDouble() generates doubles from 0.0 do 1.0 so we have to multiply it by 10 
         }
     }
 }
