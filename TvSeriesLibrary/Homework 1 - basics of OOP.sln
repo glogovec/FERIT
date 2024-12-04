@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvSeriesLibrary", "TvSeriesLibrary\TvSeriesLibrary.csproj", "{7F09B7CF-AD4F-42B4-9197-BF3D00BA9BF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvSeriesLibrary", "TvSeriesLibrary\TvSeriesLibrary.csproj", "{7F09B7CF-AD4F-42B4-9197-BF3D00BA9BF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console App - UI", "Console App - UI\Console App - UI.csproj", "{4D433B22-39E2-4064-BE3B-AC4FCF7BD349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TvSeriesUI", "Console App - UI\TvSeriesUI.csproj", "{4D433B22-39E2-4064-BE3B-AC4FCF7BD349}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{92163DA9-9EC7-4CB6-B50A-ABF9C9299424}"
 	ProjectSection(SolutionItems) = preProject

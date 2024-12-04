@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\Console App - UI.csproj",
-      "projectName": "Console App - UI",
-      "projectPath": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\Console App - UI.csproj",
+      "projectUniqueName": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\TvSeriesUI.csproj",
+      "projectName": "TvSeriesUI",
+      "projectPath": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\TvSeriesUI.csproj",
       "packagesPath": "C:\\Users\\lukah\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\obj\\",
       "projectStyle": "PackageReference",

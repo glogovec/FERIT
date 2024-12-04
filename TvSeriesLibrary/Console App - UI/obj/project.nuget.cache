@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "L8x7B2Ke+uuhfK9ZA523iasivjccf/IH/vsCvip7AKe8l9pRcvhzAUwgAEQSg0+0NtX0kNayMN5aZa6HlKK5XQ==",
+  "dgSpecHash": "8C+BbB9gxjDZVt+9dT9/2UaMFAR6CmM8vHB+79QjTwEuHgvrMUD/MAMqblMRX8s41aAwxjOTML907gp7oSYbLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\Console App - UI.csproj",
+  "projectFilePath": "C:\\Users\\lukah\\source\\repos\\TvSeriesLibrary\\Console App - UI\\TvSeriesUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
