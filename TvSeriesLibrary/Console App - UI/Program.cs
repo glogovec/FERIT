@@ -7,8 +7,7 @@ namespace TvSeriesUi
     {
         static void Main(string[] args)
         {
-            Test.HomeworkI();
-            Test.HomeworkII();
+            Test.RunTest();
         }
     }
 }

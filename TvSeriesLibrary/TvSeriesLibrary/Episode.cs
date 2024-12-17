@@ -34,7 +34,7 @@
 
         public override string ToString()
         {
-            return $"Viewer count: {viewersCount}, Total score: {totalScore}, Max score: {maxScore}" + Description.ToString();
+            return $"Viewer count: {viewersCount}, Total score: {totalScore:F2}, Max score: {maxScore}, " + Description.ToString();
         }
         public int GetViewerCount() { return viewersCount; }
 
